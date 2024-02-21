@@ -12,15 +12,15 @@ import AppConfig from "../AppConfig";
         <div class="justify-items-center col-span-10 col-start-2 lg:col-start-2">
             <div class="grid grid-cols-1 lg:grid-cols-2 items-center gap-y-10 lg:gap-y-0 gap-x-4">
                 <div class="col-span-1 relative w-10/12 sm:w-6/12 md:w-4/12 lg:w-6/12 mx-auto max-w-xs">
-                    <img src="/images/profile-2.png" class="" />
+                    <img src="/images/Dheo1.png" class="" />
                     <BoxDecoration class="absolute top-4 left-5">
-                        <img src="/images/figma.png" alt="Figma" />
+                        <img src="/images/tf.png" alt="Figma" />
                     </BoxDecoration>
                     <BoxDecoration class="absolute top-36 left-2">
-                        <img src="/images/vue.png" alt="Figma" />
+                        <img src="/images/python.png" alt="Figma" />
                     </BoxDecoration>
                     <BoxDecoration class="absolute top-8 right-6">
-                        <img src="/images/laravel.png" alt="Figma" />
+                        <img src="/images/golang.png" alt="Figma" />
                     </BoxDecoration>
                     <BoxDecoration class="absolute top-[10.5rem] right-2">
                         <img src="/images/vscode.png" alt="Figma" />
