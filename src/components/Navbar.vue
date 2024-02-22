@@ -10,7 +10,7 @@ const { x, y } = useWindowScroll();
         :class="{ 'bg-secondary/95 backdrop-blur-sm': y >= 55 }"
     >
         <RouterLink to="/" class="flex items-center gap-x-3">
-            <img src="/images/logo.png" class="w-10 h-10" />
+            <img src="/images/cat.png" class="w-10 h-10" />
             <h1 class="font-head text-lg font-extrabold text-white">Dheo Putranta Pandia</h1>
         </RouterLink>
         <div class="flex items-center gap-x-20 font-head">
