@@ -1,18 +1,18 @@
 const projects = [
     {
-        image: "gaming.png",
-        name: "Game Company Landing Page",
-        description: "Made with Vue JS 3 + Tailwind CSS Design with Figma",
+        image: "ecodo.png",
+        name: "Ecodo",
+        description: "an application equipped with a machine learning model that can recognize waste based on images. I act as a model maker or machine learning engineer.",
         links: {
-            demo: "https://gaming.ridoananda.com",
+            github: "https://github.com/dheepss123/EcoDo",
         },
     },
     {
-        image: "prokoin.png",
-        name: "Company Landing Page + System",
-        description: "Made with Laravel + Inertia + Vue JS 3 + Tailwind CSS",
+        image: "infinity.png",
+        name: "Company Landing Page",
+        description: "website for promotional purposes and news releases called infinity, I am the project manager.",
         links: {
-            demo: "https://prokoin.sentratanisejahtera.com",
+            demo: "https://dev.infinitydigitech.com/",
         },
     },
     {
