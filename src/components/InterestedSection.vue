@@ -8,7 +8,7 @@ import Button from "./Button.vue";
                 <h1 class="font-head font-bold text-xl text-center md:text-left lg:text-2xl mb-3 md:mb-0">Interested Working with me?</h1>
                 <div class="flex items-center gap-x-2 md:gap-x-4 text-sm md:text-base">
                     <a href="#" class="border border-border py-1.5 px-4 rounded-md">See More Project</a>
-                    <a href="mailto:ridoananda123@gmail.com">
+                    <a href="mailto:dheepss321@gmail.com">
                         <Button class="flex items-center gap-x-2 rounded-md">
                             <svg
                                 width="18"

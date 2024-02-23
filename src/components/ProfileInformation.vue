@@ -80,7 +80,7 @@ import AppConfig from "../AppConfig";
                 </div>
                 <div class="relative w-10/12 sm:w-6/12 md:w-11/12 lg:w-8/12 xl:w-7/12 mx-auto md:mx-0 md:ml-auto max-w-xs">
                     <!-- isi foto disini -->
-                    <img src="/images/Dheo1.png" class="" /> 
+                    <img src="/images/teo.png" class="" /> 
                     <BoxDecoration class="absolute top-4 left-5">
                         <img class="w-16" src="/images/golang.png" alt="Figma">
                     </BoxDecoration>
