@@ -12,7 +12,7 @@ import WhatsappIcon from "./icons/WhatsappIcon.vue";
         <h1 class="font-black text-3xl font-head">Get in touch</h1>
         <p class="text-gray-200">
             For business inquiry please send email to
-            <a href="mailto:ridoananda123@gmail.com" class="font-bold">ridoananda123@gmail.com</a>
+            <a href="mailto:dheepss321@gmail.com" class="font-bold">dheepss321@gmail.com</a>
         </p>
         <div class="flex items-center justify-center gap-x-4 mt-2">
             <!-- Whatsapp -->
@@ -40,7 +40,7 @@ import WhatsappIcon from "./icons/WhatsappIcon.vue";
                 </ButtonCircle>
             </a>
         </div>
-        <div class="absolute bottom-4 font-bold">Design with ❤ Figma by Rido Ananda</div>
+        <div class="absolute bottom-4 font-bold">&copy; Rido Ananda, Dheo Putranta</div>
         <BoxDecoration
             class="absolute opacity-40 shadow-none transform rotate-12 top-10 md:top-14 right-4 md:right-24 lg:right-44"
         >

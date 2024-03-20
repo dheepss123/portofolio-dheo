@@ -14,7 +14,7 @@ import AppConfig from "../AppConfig";
         <div class="justify-items-center col-span-10 col-start-2">
             <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-y-10 lg:gap-y-0">
                 <div>
-                    <div class="font-head font-black text-2xl lg:text-3xl mb-3">Hi, I'm <span class="text-primary">Dheo Putranta Pandia</span></div>
+                    <div class="font-head font-black text-2xl lg:text-3xl mb-3">Hi, I'm <span class="text-primary">Dheo Putranta Pandia (This web still under development :V)</span></div>
                     <div class="font-head font-black text-4xl lg:text-5xl">
                         Machine<span class="text-primary"> Learning</span> &
                         <div class="mt-3">DevOps <span class="text-primary">Engineer</span></div>
@@ -80,7 +80,7 @@ import AppConfig from "../AppConfig";
                 </div>
                 <div class="relative w-10/12 sm:w-6/12 md:w-11/12 lg:w-8/12 xl:w-7/12 mx-auto md:mx-0 md:ml-auto max-w-xs">
                     <!-- isi foto disini -->
-                    <img src="/images/teo.png" class="" /> 
+                    <img src="/images/Group99.png" class="" /> 
                     <BoxDecoration class="absolute top-4 left-5">
                         <img class="w-16" src="/images/golang.png" alt="Figma">
                     </BoxDecoration>
